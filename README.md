@@ -24,6 +24,11 @@ This project is an intelligent chatbot assistant that allows users to **chat nat
 -  Uses **embeddings + vector search** (FAISS) for document retrieval
 -  Powered by [Groq API](https://groq.com) (Llama3)
 
+## 📽️ Demo
+
+Watch a quick walkthrough of the PDF Chat Assistant in action:
+
+👉 [Demo video](https://www.dropbox.com/scl/fi/rd7x19e7ufb6r9zmerd6y/demo-assistant.mp4?rlkey=zopfetq0yl6grz8zezeokr5ig&st=8l6tqi31&dl=0)
 
 ---
 
